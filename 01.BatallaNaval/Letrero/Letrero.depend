@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1469292673 source:d:\c\chale\programas en c++\letrero\main.cpp
+	<windows.h>
+	<cstdio>
+	<iostream>
+	<cctype>
+	"Letrero.h"
+
+1469122432 d:\c\chale\programas en c++\letrero\letrero.h
+	<string>
+	"TipoCadena.h"
+	"Letra.h"
+
+1469407867 source:d:\c\chale\programas en c++\letrero\letrero.cpp
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<string>
+	<cstring>
+	"Letrero.h"
+
+1469196953 d:\c\chale\programas en c++\letrero\tipocadena.h
+	<iostream>
+
+1469197369 source:d:\c\chale\programas en c++\letrero\tipocadena.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"TipoCadena.h"
+
+1469474744 source:d:\c\chale\programas en c++\letrero\letra.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	"Letra.h"
+
+1469474744 d:\c\chale\programas en c++\letrero\letra.h
+
+1469463944 source:e:\colegio\codeblocks\clase11\letrero\letra.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	"Letra.h"
+
+1469463944 e:\colegio\codeblocks\clase11\letrero\letra.h
+
+1469397067 source:e:\colegio\codeblocks\clase11\letrero\letrero.cpp
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<string>
+	<cstring>
+	"Letrero.h"
+
+1469111632 e:\colegio\codeblocks\clase11\letrero\letrero.h
+	<string>
+	"TipoCadena.h"
+	"Letra.h"
+
+1469186153 e:\colegio\codeblocks\clase11\letrero\tipocadena.h
+	<iostream>
+
+1469483597 source:e:\colegio\codeblocks\clase11\letrero\main.cpp
+	<windows.h>
+	<iostream>
+	"Letrero.h"
+
+1469186569 source:e:\colegio\codeblocks\clase11\letrero\tipocadena.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"TipoCadena.h"
+

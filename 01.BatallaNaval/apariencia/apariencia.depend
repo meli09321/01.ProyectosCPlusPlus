@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573935421 source:e:\colegio\codeblocks\clase11\apariencia\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+
